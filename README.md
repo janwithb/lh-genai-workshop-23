@@ -2,14 +2,14 @@
 
 Use case ideas:
 
-Generate Fake data for Demos
-Email/Communication Generation
-Information Summarization
-Information Comparison
-Code generation (for ex: simple html table)
-Sentiment analysis?
-Integration with OCR
-Joke Generation
+- Generate Fake data for Demos
+- Email/Communication Generation
+- Information Summarization
+- Information Comparison
+- Code generation (for ex: simple html table)
+- Sentiment analysis?
+- Integration with OCR
+- Joke Generation
 
 Example:
 Inputs
