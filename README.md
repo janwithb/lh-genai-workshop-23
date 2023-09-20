@@ -2,23 +2,10 @@
 
 Use case ideas:
 
-- Generate Fake data for Demos
-- Email/Communication Generation
-- Information Summarization
-- Information Comparison
-- Code generation (for ex: simple html table)
-- Sentiment analysis?
-- Integration with OCR
-- Joke Generation
-
-Example:
-Inputs
-- Legal texts
-Outputs
-- Text summarization
-- Key statements
-		
-Option to fine tune model?
-- Training through prompt an answer examples (50 training examples)
-For Example: Fine tune the model to always speak positive about KPMG
+1. Generate controls, label them, fine tune model and run it on other controls
+2. Generate Fake data for a dashboard
+3. Read legal text through OCR and interpret/summarize them through GenAI
+4. Code Generation, simple html
+5. Sarcastic model, fine tune a model to be sarcastic
+6. Alteryx connector, generate ids based on desctiptions
 
